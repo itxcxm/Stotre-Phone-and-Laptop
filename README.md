@@ -1,4 +1,4 @@
-# Cloud Gaming Service
+# Stotre-Phone-and-Laptop
 
 A full-stack e-commerce application for cloud gaming services built with React and Node.js/Express.
 
@@ -350,4 +350,5 @@ For support, please open an issue in the repository.
 ---
 
 **Note**: This project has been optimized for better code organization, database performance, security, and maintainability. All backward compatibility routes are maintained to ensure existing frontend code continues to work without modifications.
+
 
